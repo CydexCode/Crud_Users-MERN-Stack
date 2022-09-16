@@ -1,20 +1,20 @@
 Crud application
 
-#crud-users
+##crud-users
 
-Server
+# Server
 
 npm intsall
 
 npm run dev
 
-Client
+#Client
 
 npm install
 
 npm start
 
-Together (concurrently)
+#Together (concurrently)
 
 npm run dev
 
